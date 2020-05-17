@@ -22,7 +22,7 @@
   </template>
 
 <script>
-// import NewMessage from '@/Components/NewMessage'
+ import NewMessage from './NewMessage'
  import db from '@/firebase/init'
  import moment from 'moment'
 export default {
